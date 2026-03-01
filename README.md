@@ -1,6 +1,6 @@
 # Love Forever — How This HTML Is Made
 
-##Made by Re
+#Made by Re
 
 This document explains how `index.html` is built, the maths used for the animation, and what (if any) components you need.
 
